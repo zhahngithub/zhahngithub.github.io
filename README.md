@@ -1,4 +1,4 @@
-# Zhahn Github Page
+# zhahn Github Page
 
 Welcome to my shitty website repo ig idk why are u here who tf are u
 
