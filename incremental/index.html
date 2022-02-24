@@ -6,22 +6,20 @@
 		<title>Yet Another Average Shitty Incremental Game</title>
 	</head>
 	<!-- 
-	Idk random comment lmao
+	Main part of the code
 	-->
 	<body>
 	<h1>Yet Another Average Shitty Incremental Game</h1>
-		
 	<p>
-	<a href="changelog.md" target="_blank">changelog</a>
+		<img src="./img/YAASIG.png" alt="Yet Another Average Shitty Incremental Game">
+		ver 1.1<br>
+		<button onclick="saveGame()">Save Game</button>
+		<button onclick="loadGame()">Load Game</button>
+		<button onclick="resetGame()">Reset Game</button><br>
+		Please remember to save since theres no auto save
 	</p>
 	
-	<img src="./img/YAASIG.png" alt="Yet Another Average Shitty Incremental Game">
-	
-	<p>
-	ver 1.0
-	</p>
-		
-	<br><br><br>
+	<br><p>---------------------------------------------------------------------------</p><br>
 	
 	<p id="GeneratedCoins">0 Coins</p>
 	
@@ -29,6 +27,5 @@
 	<button onclick="buyFactory1()" id="perFactory1Upgrade">Upgrade Factory (Currently Level 1) Cost: 10 Coins</button>
 	
 	<script src="js/main.js" charset="utf-8" type="text/javascript"></script>
-	
 	</body>
 </html>
