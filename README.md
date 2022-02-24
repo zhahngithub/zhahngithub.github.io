@@ -13,6 +13,6 @@ Credit to [Dillinger] for README.md
 
 [Github Page]
 
-
-[Dillinger]: (https://dillinger.io/)
-[Github Page]: (https://zhahngithub.github.io/)
+<!-- External Links -->
+[Dillinger]: https://dillinger.io/
+[Github Page]: https://zhahngithub.github.io/
