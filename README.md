@@ -9,4 +9,10 @@ Welcome to my shitty website repo ig idk why are u here who tf are u
 
 > cool line stuff here idk
 
-Credit to https://dillinger.io/ for README.md
+Credit to [Dillinger] for README.md
+
+[Github Page]
+
+
+[Dillinger]: (https://dillinger.io/)
+[Github Page]: (https://zhahngithub.github.io/)
