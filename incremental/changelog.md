@@ -1,3 +1,9 @@
+1.2 - 24 2 2022
+- Added Factory2
+- Added AutoFactory1
+- Separated FactoryLevel and CoinsPerClick
+- Added CPC and CPS Counter
+
 1.1 - 24 2 2022
 - Added Save and Load
 - Added Reset :flushed:
