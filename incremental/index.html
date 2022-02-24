@@ -12,7 +12,7 @@
 	<h1>Yet Another Average Shitty Incremental Game</h1>
 	<p>
 		<img src="./img/YAASIG.png" alt="Yet Another Average Shitty Incremental Game">
-		ver 1.1<br>
+		ver 1.2<br>
 		<button onclick="saveGame()">Save Game</button>
 		<button onclick="loadGame()">Load Game</button>
 		<button onclick="resetGame()">Reset Game</button><br>
@@ -21,11 +21,15 @@
 	
 	<br><p>---------------------------------------------------------------------------</p><br>
 	
-	<p id="GeneratedCoins">0 Coins</p>
+	<p id="GeneratedCoins">0 Coins<br></p>
+	<p id="CPC">1 Coins Per Click</p>
+	<p id="CPS">1 Coins Per Second</p>
 	
 	<button onclick="generateCoins()">Generate Coins</button> <br>
-	<button onclick="buyFactory1()" id="perFactory1Upgrade">Upgrade Factory (Currently Level 1) Cost: 10 Coins</button>
-	
+	<button onclick="buyFactory1()" id="perFactory1Upgrade">Upgrade Factory (Currently Level 1) Cost: 10 Coins</button> <br>
+	<button onclick="buyFactory2()" id="perFactory2Upgrade">Upgrade Factory2 (Currently Level 1) Cost: 100 Coins</button> <br>
+	<button onclick="buyAutoFactory1()" id="perAutoFactory1Upgrade">Upgrade AutoFactory (Currently Level 1) Cost: 10 Coins</button>
+
 	<script src="js/main.js" charset="utf-8" type="text/javascript"></script>
 	</body>
 </html>
