@@ -4,4 +4,7 @@
 - Added Save and Load
 - Added Reset :flushed:
 - Added Auto Load when the website started
-- Thanks to [Tanktot Games]: (https://www.youtube.com/watch?v=9Yh3LlYlAyo)
+- Thanks to [Tanktot Games]
+
+<!-- External Links -->
+[Tanktot Games]: https://www.youtube.com/watch?v=9Yh3LlYlAyo
