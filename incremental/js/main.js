@@ -22,6 +22,13 @@ function buyFactory1()
   }
 }
 
+function saveGame() {
+	var gameSave = {
+		gameData
+	};
+	localStorage.setItem("gameSave", JSON.stringify(gameSave));
+}
+
 var mainGameLoop = window.setInterval(function() 
 {
   generateCoins()
