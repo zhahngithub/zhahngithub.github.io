@@ -25,7 +25,7 @@ function buyFactory1()
   }
 }
 
-//Extra Feature
+//Save Load Reset
 function saveGame() {
 	var gameSave = {
 		gameData
