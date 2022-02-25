@@ -1,3 +1,7 @@
+1.3 - ?
+- Added AutoFactory2
+- Added Factory3 & AutoFactory3 cuz idk what to add
+
 1.2 - 24 2 2022
 - Added Factory2
 - Added AutoFactory1
