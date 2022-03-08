@@ -1,4 +1,4 @@
-1.3 - ?
+1.3 - 8 3 2022
 - Added AutoFactory2
 - Added Factory3 & AutoFactory3 cuz idk what to add
 
